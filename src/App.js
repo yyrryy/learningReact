@@ -1,9 +1,9 @@
-
+import {Header} form 'src/Header'
 function App() {
   return (
-    <h1>
-      chakra
-    </h1>
+    <Header>
+
+    </Header>
   );
 }
 
